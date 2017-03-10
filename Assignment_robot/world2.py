@@ -4,13 +4,9 @@ Created on 9 Mar 2017
 @author: annub
 '''
 import re
-#from world.stack_class import *
-
-
-#the_world=[0]
 
 def where_is_robot():
-    #print(the_world)
+    
     l=len(the_world[0])
     for i in range(l):
         for j in range(l):
